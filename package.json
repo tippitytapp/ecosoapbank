@@ -14,7 +14,7 @@
     "react-dom": "^16.13.1",
     "react-plotly.js": "^2.4.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "craco start",
@@ -68,7 +68,7 @@
     "@storybook/addon-knobs": "^5.3.19",
     "@storybook/addon-notes": "^5.3.19",
     "@storybook/addons": "^5.3.19",
-    "@storybook/react": "^5.3.19",
+    "@storybook/react": "^9.1.5",
     "@storybook/storybook-deployer": "^2.8.6",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^10.2.1",
@@ -80,6 +80,6 @@
     "jest-environment-jsdom-sixteen": "^1.0.3",
     "jest-prop-type-error": "^1.1.0",
     "lint-staged": "^10.2.11",
-    "prettier-eslint-cli": "^5.0.0"
+    "prettier-eslint-cli": "^8.0.1"
   }
 }
